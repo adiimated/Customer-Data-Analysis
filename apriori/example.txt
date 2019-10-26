@@ -18,18 +18,18 @@ Type 'q()' to quit R.
 > library(arules)
 Loading required package: Matrix
 
-Attaching package: ‘arules’
+Attaching package: â€˜arulesâ€™
 
-The following objects are masked from ‘package:base’:
+The following objects are masked from â€˜package:baseâ€™:
 
     abbreviate, write
 
 Warning message:
-package ‘arules’ was built under R version 3.5.3 
+package â€˜arulesâ€™ was built under R version 3.5.3 
 > library(arulesViz)
 Loading required package: grid
 Warning message:
-package ‘arulesViz’ was built under R version 3.5.3 
+package â€˜arulesVizâ€™ was built under R version 3.5.3 
 > library(datasets)
 > # Load the data set
 > data(Groceries)
@@ -141,7 +141,7 @@ verbose	 =  FALSE
 Warning messages:
 1: In plot.rules(rules, method = "graph", interactive = TRUE, shading = NA) :
   The parameter interactive is deprecated. Use engine='interactive' instead.
-2: plot: Too many rules supplied. Only plotting the best 100 rules using ‘support’ (change control parameter max if needed) 
+2: plot: Too many rules supplied. Only plotting the best 100 rules using â€˜supportâ€™ (change control parameter max if needed) 
 > #Individual Rule Representation
 > plot(rules[1:20],method = "paracoord",control = list(reorder = TRUE))
 > #Interactive Scatterplot
