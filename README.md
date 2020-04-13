@@ -5,4 +5,5 @@
 
 ## Dataset
 1. The first dataset gives the history of previous sales of a product which is similar to the new one to be launched. Analysing this dataset can help the company to understand which salary group should the product be advertised to. Also this can help the owner decide the neighbourhood in which the product would be available.
+2. The second dataset gives the history of customers and their spending scores. This can be helpful in deciding the marketing strategy .
 
