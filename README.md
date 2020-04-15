@@ -9,3 +9,5 @@
 3. The last dataset is the inbuilt dataset (groceries) in R. Analysing this dataset can help the owner in stacking of products. 
 
 ## Results :
+### Dataset 1
+Before performing decision tree analysis, we featured scaled the dataset. This helps in better visualization of results. The above visual shows how each value in the dataset can be mapped to show patterns in the data. The red dot represents the customers that didn't buy the product whereas the green dot represents the customers that bought the product. The red region is our estimation where the red dots would lie i.e which customers wont buy the product and the green region is our estimation where the green dots would lie i.e which customers would buy the product.
