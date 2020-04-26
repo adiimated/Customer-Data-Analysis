@@ -14,3 +14,6 @@ Before performing decision tree analysis, we featured scaled the dataset. This h
 
 ### Dataset 2
 The second dataset gives the history of customers and their spending scores. This can be helpful in deciding the marketing strategy .
+
+### Dataset 3
+The last dataset is the inbuilt dataset (groceries) in R. Analysing this dataset can help the owner in stacking of products. 
