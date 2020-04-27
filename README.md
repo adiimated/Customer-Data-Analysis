@@ -17,7 +17,7 @@ This result can also be visualized into a tree form which would help the layman 
 ### Dataset 2
 The elbow method is a heuristic method of interpretation and validation of consistency within cluster analysis designed to help find the appropriate number of clusters in a dataset. With the help of which we found out the optimum number of clusters ,which is 5.
 
-First Header | Second Header
+Cluster No. | What It Represents
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
