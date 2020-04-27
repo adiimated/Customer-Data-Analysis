@@ -1,7 +1,7 @@
 # Decision Tree Classification
 
 # Importing the dataset
-dataset = read.csv('Social_Network_Ads.csv')
+dataset = read.csv('historical_data.csv')
 dataset = dataset[3:5]
 
 # Encoding the target feature as factor
