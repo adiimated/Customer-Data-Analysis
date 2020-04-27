@@ -22,6 +22,7 @@ Cluster No. | What It Represents
 1 | High Income Group + High Spending Score
 2 | Average Income Group + Low Spending Score
 3 | Average Income Group + Average Spending Score
+4 | Low Income Group + Average Spending Score
 
 ### Dataset 3
 Apriori Algorithm focuses on customer buying habits. It links objects which a customer is highly likely to buy, based on what he has already bought. This helps the customer to find the items he intended to buy easily. The image below shows the first 20 rules derived from the groceries dataset.  
