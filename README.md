@@ -12,7 +12,7 @@
 ### Dataset 1
 Before performing decision tree analysis, we featured scaled the dataset. This helps in better visualization of results. The above visual shows how each value in the dataset can be mapped to show patterns in the data. The red dot represents the customers that didn't buy the product whereas the green dot represents the customers that bought the product. The red region is our estimation where the red dots would lie i.e which customers wont buy the product and the green region is our estimation where the green dots would lie i.e which customers would buy the product.
 
-! [Decision Tree Viz] (/screenshots/Decision tree viz.png )
+! [Decision Tree Viz] (Customer-Data-Analysis/screenshots/Decision tree viz.png )
 
 This result can also be visualized into a tree form which would help the layman understand them quickly. The Tree format concentrates on which age and salary group the owner of the shop should focus on. 1 indicates the higher probability of purchase and 0 indicates the lower probability. Advertisements in this case should cater to and older age group with high income salary.  
 
