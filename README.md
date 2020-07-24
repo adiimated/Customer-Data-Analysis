@@ -30,4 +30,4 @@ Cluster No. | What It Represents
 
 ### Dataset 3
 Apriori Algorithm focuses on customer buying habits. It links objects which a customer is highly likely to buy, based on what he has already bought. This helps the customer to find the items he intended to buy easily. The image below shows the first 20 rules derived from the groceries dataset.  
-![alt text]()
+![alt text](https://github.com/adiimated/Customer-Data-Analysis/blob/master/screenshots/Apriori%2020%20Rules.png)
