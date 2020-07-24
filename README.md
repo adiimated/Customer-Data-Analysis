@@ -17,6 +17,7 @@ Before performing decision tree analysis, we featured scaled the dataset. This h
 This result can also be visualized into a tree form which would help the layman understand them quickly. The Tree format concentrates on which age and salary group the owner of the shop should focus on. 1 indicates the higher probability of purchase and 0 indicates the lower probability. Advertisements in this case should cater to and older age group with high income salary.  
 
 ### Dataset 2
+![alt text](https://github.com/adiimated/Customer-Data-Analysis/blob/master/screenshots/Elbow%20method.png)
 The elbow method is a heuristic method of interpretation and validation of consistency within cluster analysis designed to help find the appropriate number of clusters in a dataset. With the help of which we found out the optimum number of clusters ,which is 5.
 
 Cluster No. | What It Represents
