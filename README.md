@@ -1,3 +1,11 @@
+## Table of Content
+- [Goals of the project](#goals-of-the-project)
+- [Dataset](#dataset)
+- [Results](#results)
+  * [Dataset 1](#dataset-1)
+  * [Dataset 2](#dataset-2)
+  * [Dataset 3](#dataset-3)
+
 ## Goals of the project 
 1. The store is launching a new product. We are finding out who the product appeals to , so that we can advertise accordingly.
 2. Secondly , we find the product of the hour. It is the product with highest amount of sales.
